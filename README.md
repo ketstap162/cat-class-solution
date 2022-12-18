@@ -7,7 +7,6 @@ class Cat:
         self.age = age
 
     def info(self) -> dict:
-        pass
         return {
             "cat": self.name,
             "age": self.age,
