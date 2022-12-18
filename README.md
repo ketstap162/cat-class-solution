@@ -1,4 +1,4 @@
-# Solution for task Cat Class
+# Solution for Cat Class
 
 ```python
 class Cat:
